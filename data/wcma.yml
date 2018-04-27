@@ -1,0 +1,8 @@
+---
+name: Williams College Museum of Art
+type: Museum
+location: Williamstown, MA
+data: [csv, json]
+url: https://wcma.williams.edu/wcma-digital-project/
+github: https://github.com/wcmaart/collection
+---
