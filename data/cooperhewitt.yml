@@ -1,0 +1,8 @@
+---
+name: Cooper Hewitt, Smithsonian Design Museum 
+type: Museum
+location: New York, NY  
+data: [csv, json, api]
+url: https://www.cooperhewitt.org/open-source-at-cooper-hewitt/
+github: https://github.com/cooperhewitt/collection
+---
