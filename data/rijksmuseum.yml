@@ -1,0 +1,8 @@
+---
+name: Rijksmuseum 
+type: Museum
+location: Amsterdam  
+data: [api]
+url: https://www.rijksmuseum.nl/en/api
+github: https://github.com/Rijksmuseum
+---
