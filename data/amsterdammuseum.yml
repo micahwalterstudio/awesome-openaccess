@@ -1,0 +1,8 @@
+---
+name: Amsterdam Museum 
+type: Museum
+location: Amsterdam 
+data: [xml, json, api]
+url: https://www.amsterdammuseum.nl/open-data
+github: https://github.com/openstate/open-cultuur-data/wiki/Amsterdam-Museum
+---
