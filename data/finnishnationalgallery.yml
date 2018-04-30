@@ -1,0 +1,8 @@
+---
+name: Finnish National Gallery
+type: Museum
+location: Helsinki, Finland  
+data: [xml, json, api]
+url: http://kokoelmat.fng.fi/api/v2support/docs/#/overview
+github: 
+---
