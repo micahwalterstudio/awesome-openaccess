@@ -1,0 +1,8 @@
+---
+name: Indianapolis Museum of Art
+type: Museum
+location: Indianapolis, IN
+data: [csv, json]
+url: http://collection.imamuseum.org/
+github: https://github.com/IMAmuseum/ima-collection
+---
