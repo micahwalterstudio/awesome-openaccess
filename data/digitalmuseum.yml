@@ -1,0 +1,8 @@
+---
+name: Digital Museum 
+type: Museum
+location: Norway, Sweden
+data: [api]
+url: https://digitaltmuseum.org/
+github: https://github.com/NordicMuseum/DiMu-API-documentation
+---
