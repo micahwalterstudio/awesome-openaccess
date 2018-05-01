@@ -3,6 +3,5 @@ name: Powerhouse Museum (Museum of Applied Arts and Sciences)
 type: Museum
 location: Sydney, Australia  
 data: [xml, json, yaml, api]
-url: http://api.powerhousemuseum.com/login/?next=/
+url: https://maas.museum/api-documentation/overview/graphql/
 github: https://github.com/museumofappliedartsandsciences/MME
----
