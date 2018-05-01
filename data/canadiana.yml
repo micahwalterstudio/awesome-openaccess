@@ -1,0 +1,8 @@
+---
+name: Canadiana
+type: Aggregator
+location: Ottowa, Ontario, Canada  
+data: [json, api]
+url: http://search.canadiana.ca/support/api
+github: https://github.com/c7a
+---
