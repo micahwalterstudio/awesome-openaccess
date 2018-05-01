@@ -4,4 +4,3 @@ type: Museum
 location: Brisbane, Australia 
 data: [csv, xml, xls, api]
 url: https://data.qld.gov.au/dataset?tags=qagoma
----
