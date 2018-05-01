@@ -1,0 +1,7 @@
+---
+name: Wellcome Collection
+type: Museum
+location: London, UK 
+data: [json, iiif, api]
+url: https://developers.wellcomecollection.org/
+github: https://github.com/wellcometrust/wellcomecollection.org
