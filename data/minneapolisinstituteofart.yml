@@ -1,0 +1,8 @@
+---
+name: Minneapolis Institute of Art 
+type: Museum
+location: Minneapolis, MN 
+data: [json, images]
+url: https://collections.artsmia.org/
+github: https://github.com/artsmia/collection
+---
