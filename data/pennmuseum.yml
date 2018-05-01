@@ -4,5 +4,3 @@ type: Museum
 location: Philadelphia, PA 
 data: [csv, json, xml]
 url: https://www.penn.museum/collections/data.php
-github: 
----
