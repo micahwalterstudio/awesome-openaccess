@@ -1,0 +1,7 @@
+---
+name: Carnegie Museum of Art
+type: Museum
+location: Pittsburgh, PA
+data: [csv, json]
+url: https://collectionsasdata.github.io/facet2/
+github: https://github.com/cmoa/collection
