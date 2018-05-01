@@ -76,18 +76,18 @@ if __name__ == '__main__':
         tail = os.path.splitext(tail)[0]
         datafiles[tail] = yml
     
-    readme.write('| Organization | Data | Description |\n')
-    readme.write('| --- | --- | --- |\n')
+    readme.write('| Organization | Data |\n')
+    readme.write('| --- | --- |\n')
     
     for org in sorted(datafiles.iterkeys()):    
         pprint.pprint(datafiles[org]['name'])
         links = ''
         if 'url' in datafiles[org]:
-            links = links + ':globe_with_meridians: '
+            links = links + '[:globe_with_meridians:](' + datafiles[org]['url'] +') '
         if 'github' in datafiles[org]:
-            links = links + ':octocat: '
+            links = links + '[:octocat:](' + datafiles[org]['github'] +') '
             
         emoji = text2emoji(datafiles[org]['data'])
-        readme.write('| [' + datafiles[org]['name'] + '](' + datafiles[org]['url'] + ') | ' + links + emoji +' | description words go here |  \n' )
+        readme.write('| [' + datafiles[org]['name'] + '](' + datafiles[org]['url'] + ') | ' + links + emoji +' |  \n' )
 
     readme.close()     
