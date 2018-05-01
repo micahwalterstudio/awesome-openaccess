@@ -1,0 +1,8 @@
+---
+name: Victoria and Albert Museum
+type: Museum
+location: London, UK  
+data: [csv, json, api]
+url: https://www.vam.ac.uk/api
+github: https://github.com/vanda
+---
