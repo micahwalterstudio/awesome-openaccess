@@ -1,6 +1,6 @@
 ---
 name: Digital Museum 
-type: Museum
+type: Aggregator
 location: Norway, Sweden
 data: [api]
 url: https://digitaltmuseum.org/
