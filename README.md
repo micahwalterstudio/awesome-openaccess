@@ -11,7 +11,7 @@
 | :blue_book: | CSV Dataset |
 | :green_book: | TSV Dataset |
 | :closed_book: | XML Dataset |
-| :notebook_book: | XLS Dataset |
+| :notebook: | XLS Dataset |
 | :orange_book: | JSON Dataset |
 | :computer: | API |
 ### Datasets
