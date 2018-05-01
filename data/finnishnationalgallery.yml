@@ -4,5 +4,4 @@ type: Museum
 location: Helsinki, Finland  
 data: [xml, json, api]
 url: http://kokoelmat.fng.fi/api/v2support/docs/#/overview
-github: 
----
+partner: Europeana
