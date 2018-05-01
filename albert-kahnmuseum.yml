@@ -1,0 +1,6 @@
+---
+name: Albert-Kahn Museum, Archives of the Planet
+type: Museum
+location: Boulogne-Billancourt, France 
+data: [csv, json, xls]
+url: https://opendata.hauts-de-seine.fr/explore/dataset/archives-de-la-planete/export/?disjunctive.operateur
