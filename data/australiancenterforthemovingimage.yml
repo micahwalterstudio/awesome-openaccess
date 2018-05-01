@@ -1,0 +1,7 @@
+---
+name: Australian Center for the Moving Image
+type: Museum
+location: Melbourne, Australia
+data: [tsv, json]
+url: https://labs.acmi.net.au/first-batch-open-collection-data-from-acmi-ef0a6720d716
+github: https://github.com/ACMILabs/collection
