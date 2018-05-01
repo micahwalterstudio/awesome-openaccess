@@ -33,7 +33,7 @@ if __name__ == '__main__':
     readme.write('| :blue_book: | CSV Dataset |\n')
     readme.write('| :green_book: | TSV Dataset |\n')
     readme.write('| :closed_book: | XML Dataset |\n')
-    readme.write('| :notebook_book: | XLS Dataset |\n')
+    readme.write('| :notebook: | XLS Dataset |\n')
     readme.write('| :orange_book: | JSON Dataset |\n')
     readme.write('| :computer: | API |\n')
 
