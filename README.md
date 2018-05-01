@@ -1,5 +1,7 @@
-# Awesome OpenAccess[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
-*An awesome list of awesome OpenAccess projects** [Amsterdam Museum](https://www.amsterdammuseum.nl/open-data)
+# Awesome OpenAccess
+[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+*An awesome list of awesome OpenAccess projects*
+* [Amsterdam Museum](https://www.amsterdammuseum.nl/open-data)
 * [Auckland Museum](https://api.aucklandmuseum.com/)
 * [Australian Center for the Moving Image](https://labs.acmi.net.au/first-batch-open-collection-data-from-acmi-ef0a6720d716)
 * [Balboa Park](http://www.balboaparkcommons.org/pages/thisapi)
