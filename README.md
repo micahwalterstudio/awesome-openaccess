@@ -18,6 +18,7 @@
 ### Datasets
 | Organization | Location | Data |
 | --- | --- | --- |
+| [Albert-Kahn Museum, Archives of the Planet](https://opendata.hauts-de-seine.fr/explore/dataset/archives-de-la-planete/export/?disjunctive.operateur) | Boulogne-Billancourt, France | [:globe_with_meridians:](https://opendata.hauts-de-seine.fr/explore/dataset/archives-de-la-planete/export/?disjunctive.operateur) :blue_book: :orange_book: :notebook:  |  
 | [Amsterdam Museum](https://www.amsterdammuseum.nl/open-data) | Amsterdam | [:globe_with_meridians:](https://www.amsterdammuseum.nl/open-data) [:octocat:](https://github.com/openstate/open-cultuur-data/wiki/Amsterdam-Museum) :closed_book: :orange_book: :computer:  |  
 | [Auckland Museum](https://api.aucklandmuseum.com/) | Auckland, New Zealand | [:globe_with_meridians:](https://api.aucklandmuseum.com/) [:octocat:](https://github.com/AucklandMuseum) :blue_book: :orange_book: :computer:  |  
 | [Australian Center for the Moving Image](https://labs.acmi.net.au/first-batch-open-collection-data-from-acmi-ef0a6720d716) | Melbourne, Australia | [:globe_with_meridians:](https://labs.acmi.net.au/first-batch-open-collection-data-from-acmi-ef0a6720d716) [:octocat:](https://github.com/ACMILabs/collection) :green_book: :orange_book:  |  
