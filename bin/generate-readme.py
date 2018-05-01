@@ -18,7 +18,7 @@ if __name__ == '__main__':
     readme = open('README.md', 'w')
     
     readme.write('# Awesome OpenAccess\n')
-    readme.write('[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)')
+    readme.write('[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)\n')
     readme.write('\n')
     readme.write('*An awesome list of awesome OpenAccess projects*\n')
     
