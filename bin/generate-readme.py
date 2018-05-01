@@ -8,6 +8,31 @@ import json
 import glob
 import pprint
 
+def text2emoji(text):
+    
+    emoji = ''
+
+    for thing in text:
+        if thing == 'images':
+            emoji = emoji + ':camera: '
+        if thing == 'csv':
+            emoji = emoji + ':blue_book: '
+        if thing == 'tsv':
+            emoji = emoji + ':green_book: '
+        if thing == 'xml':
+            emoji = emoji + ':closed_book: '
+        if thing == 'xls':
+            emoji = emoji + ':notebook: '
+        if thing == 'json':
+            emoji = emoji + ':orange_book: '
+        if thing == 'api':
+            emoji = emoji + ':computer: '
+ 
+    
+    print emoji
+    
+    return emoji
+
 if __name__ == '__main__':
 
     whoami = os.path.abspath(sys.argv[0])
@@ -56,6 +81,13 @@ if __name__ == '__main__':
     
     for org in sorted(datafiles.iterkeys()):    
         pprint.pprint(datafiles[org]['name'])
-        readme.write('| [' + datafiles[org]['name'] + '](' + datafiles[org]['url'] + ') | stuff | description words go here |  \n' )
+        links = ''
+        if 'url' in datafiles[org]:
+            links = links + ':globe_with_meridians: '
+        if 'github' in datafiles[org]:
+            links = links + ':octocat: '
+            
+        emoji = text2emoji(datafiles[org]['data'])
+        readme.write('| [' + datafiles[org]['name'] + '](' + datafiles[org]['url'] + ') | ' + links + emoji +' | description words go here |  \n' )
 
     readme.close()     
