@@ -15,6 +15,8 @@ def text2emoji(text):
     for thing in text:
         if thing == 'images':
             emoji = emoji + ':camera: '
+        if thing == 'iiif':
+            emoji = emoji + ':minidisc: '
         if thing == 'csv':
             emoji = emoji + ':blue_book: '
         if thing == 'tsv':
@@ -55,6 +57,7 @@ if __name__ == '__main__':
     readme.write('| :octocat: | GitHub Repo |\n')
     readme.write('| :globe_with_meridians: | Documentation Website |\n')
     readme.write('| :camera: | Images |\n')
+    readme.write('| :minidisc: | IIIF Images |\n')
     readme.write('| :blue_book: | CSV Dataset |\n')
     readme.write('| :green_book: | TSV Dataset |\n')
     readme.write('| :closed_book: | XML Dataset |\n')

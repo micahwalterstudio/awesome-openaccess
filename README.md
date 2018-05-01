@@ -8,6 +8,7 @@
 | :octocat: | GitHub Repo |
 | :globe_with_meridians: | Documentation Website |
 | :camera: | Images |
+| :minidisc: | IIIF Images |
 | :blue_book: | CSV Dataset |
 | :green_book: | TSV Dataset |
 | :closed_book: | XML Dataset |
@@ -55,6 +56,6 @@
 | [Victoria and Albert Museum](https://www.vam.ac.uk/api) | [:globe_with_meridians:](https://www.vam.ac.uk/api) [:octocat:](https://github.com/vanda) :closed_book: :orange_book: :computer:  |  
 | [Walters Art Museum](https:http://api.thewalters.org/) | [:globe_with_meridians:](https:http://api.thewalters.org/) [:octocat:](https://github.com/WaltersArtMuseum/walters-api) :orange_book: :closed_book: :computer:  |  
 | [Williams College Museum of Art](https://wcma.williams.edu/wcma-digital-project/) | [:globe_with_meridians:](https://wcma.williams.edu/wcma-digital-project/) [:octocat:](https://github.com/wcmaart/collection) :blue_book: :orange_book:  |  
-| [Wellcome Collection](https://developers.wellcomecollection.org/) | [:globe_with_meridians:](https://developers.wellcomecollection.org/) [:octocat:](https://github.com/wellcometrust/wellcomecollection.org) :orange_book: :computer:  |  
+| [Wellcome Collection](https://developers.wellcomecollection.org/) | [:globe_with_meridians:](https://developers.wellcomecollection.org/) [:octocat:](https://github.com/wellcometrust/wellcomecollection.org) :orange_book: :minidisc: :computer:  |  
 | [Western Australian Museum](http://www.museum.wa.gov.au/sandbox/) | [:globe_with_meridians:](http://www.museum.wa.gov.au/sandbox/) [:octocat:](https://github.com/wamuseum) :closed_book: :orange_book: :computer:  |  
 | [The Whale Museum](http://hotline.whalemuseum.org/api) | [:globe_with_meridians:](http://hotline.whalemuseum.org/api) :orange_book: :computer:  |  
