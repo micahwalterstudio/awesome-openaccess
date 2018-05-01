@@ -1,0 +1,6 @@
+---
+name: The Whale Museum 
+type: Museum
+location: Friday Harbor, WA
+data: [json, api]
+url: http://hotline.whalemuseum.org/api
