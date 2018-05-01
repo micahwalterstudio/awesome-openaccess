@@ -1,0 +1,7 @@
+---
+name: Queensland Gallery of Art/Gallery of Modern Art 
+type: Museum
+location: Brisbane, Australia 
+data: [csv, json, api]
+url: https://data.qld.gov.au/dataset?tags=qagoma
+---
