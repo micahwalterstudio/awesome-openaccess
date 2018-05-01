@@ -4,5 +4,3 @@ type: Museum
 location: Cambridge, UK  
 data: [html, xml, json, api]
 url: http://data.fitzmuseum.cam.ac.uk/
-github: 
----
