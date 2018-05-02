@@ -4,4 +4,3 @@ type: Museum
 location: Western Australia
 data: [xml, json, api]
 url: http://www.museum.wa.gov.au/sandbox/
-github: https://github.com/wamuseum
