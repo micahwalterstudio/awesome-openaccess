@@ -2,6 +2,8 @@
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 *An awesome list of awesome OpenAccess projects* 
+
+This is an awesome list of awesome OpenAccess projects. If you'd like to contribute, please read the guidlines in [CONTRIBUTING.md](https://github.com/micahwalterstudio/awesome-openaccess/blob/master/CONTRIBUTING.md)
 ### Key
 | Emoji | Meaning |
 | --- | --- |

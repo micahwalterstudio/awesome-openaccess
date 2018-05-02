@@ -48,6 +48,8 @@ if __name__ == '__main__':
     readme.write('[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)\n')
     readme.write('\n')
     readme.write('*An awesome list of awesome OpenAccess projects* \n')
+    readme.write('\n')
+    readme.write('This is an awesome list of awesome OpenAccess projects. If you\'d like to contribute, please read the guidlines in [CONTRIBUTING.md](https://github.com/micahwalterstudio/awesome-openaccess/blob/master/CONTRIBUTING.md)\n')
     
     ## legend
     
