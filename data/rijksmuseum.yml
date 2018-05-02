@@ -4,4 +4,4 @@ type: Museum
 location: Amsterdam  
 data: [images, api]
 url: https://www.rijksmuseum.nl/en/api
-github: https://github.com/Rijksmuseum
+github: https://github.com/Rijksmuseum/rijksmuseum.github.io
