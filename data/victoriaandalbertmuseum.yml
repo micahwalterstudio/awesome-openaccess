@@ -4,4 +4,3 @@ type: Museum
 location: London, UK 
 data: [xml, json, api]
 url: https://www.vam.ac.uk/api
-github: https://github.com/vanda
