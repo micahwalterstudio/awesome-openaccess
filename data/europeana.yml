@@ -1,0 +1,7 @@
+---
+name: Europeana
+type: Aggregator
+location: Netherlands
+data: [xml, json, images, api]
+url: https://pro.europeana.eu/resources/apis
+github: https://github.com/europeana/europeana-portal-collections
