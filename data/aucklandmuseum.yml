@@ -4,4 +4,4 @@ type: Museum
 location: Auckland, New Zealand
 data: [csv, json, api]
 url: https://api.aucklandmuseum.com/
-github: https://github.com/AucklandMuseum
+github: https://github.com/AucklandMuseum/Collection-Data
