@@ -12,7 +12,7 @@ def text2emoji(text):
     
     emoji = ''
 
-    for thing in text:
+    for thing in sorted(text):
         if thing == 'images':
             emoji = emoji + ':camera: '
         if thing == 'iiif':
