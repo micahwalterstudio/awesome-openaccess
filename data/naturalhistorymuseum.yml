@@ -4,4 +4,3 @@ type: Museum
 location: London, UK 
 data: [csv, xls, images, video, pdf, dwc]
 url: http://data.nhm.ac.uk/dataset
-github: https://github.com/NaturalHistoryMuseum
