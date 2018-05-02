@@ -2,6 +2,5 @@
 name: The British Museum 
 type: Museum
 location: London, UK
-data: [json, api]
+data: [json, images]
 url: http://www.britishmuseum.org/research/collection_online/about_the_database.aspx
-github: https://github.com/britishmuseum
