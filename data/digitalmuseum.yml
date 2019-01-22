@@ -1,7 +1,7 @@
 ---
-name: Digital Museum 
+name: Digitalt Museum 
 type: Aggregator
 location: Norway, Sweden
-data: [api]
+data: [api, images]
 url: https://digitaltmuseum.org/
 github: https://github.com/NordicMuseum/DiMu-API-documentation
