@@ -31,7 +31,7 @@ def text2emoji(text):
             emoji = emoji + ':computer: '
  
     
-    print emoji
+    print(emoji)
     
     return emoji
 
@@ -75,7 +75,7 @@ if __name__ == '__main__':
     datafiles = {}
     
     for filename in glob.glob(datadir + '/*.yml'):
-        stream = file(filename, 'r')
+        stream = open(filename, 'r')
         yml = yaml.load(stream)
         head, tail = os.path.split(filename)
         tail = os.path.splitext(tail)[0]
@@ -84,7 +84,7 @@ if __name__ == '__main__':
     readme.write('| Organization | Location | Data |\n')
     readme.write('| --- | --- | --- |\n')
     
-    for org in sorted(datafiles.iterkeys()):    
+    for org in sorted(datafiles.keys()):    
         pprint.pprint(datafiles[org]['name'])
         links = ''
         if 'url' in datafiles[org]:
